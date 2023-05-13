@@ -1,0 +1,7 @@
+name: SimpleSolutions
+version: '${project.version}'
+main: com.github.akagiant.simplesolutions.SimpleSolutions
+api-version: 1.19
+author: AkaGiant
+
+softdepend: [ "PlaceholderAPI" ]
